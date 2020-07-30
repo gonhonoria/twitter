@@ -6,5 +6,5 @@ wordcloud==1.7.0
 pandas==1.0.3
 streamlit==0.56.0
 numpy==1.18.1
-nltk==3.4.4
+nltk==3.4.5
 scikit_learn==0.23.1
